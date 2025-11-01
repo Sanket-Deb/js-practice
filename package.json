@@ -1,0 +1,13 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "practice questions for js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "new": "node newQuestion.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanket Deb",
+  "license": "ISC"
+}
