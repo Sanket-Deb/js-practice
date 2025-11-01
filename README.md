@@ -1,10 +1,10 @@
 # JS Interview Practice
 
-A collection of JavaScript coding interview questions with solutions.
+A collection of JavaScript questions with solutions.
 
 Each question has:
 
-- `.js` file → your solution
+- `.js` file → solution
 - `.md` file → question description
 
 ## Scripts
@@ -14,6 +14,6 @@ Each question has:
 
 ## Question List
 
-| No  | Title       | File              |
-| --- | ----------- | ----------------- |
-| 1   | Placeholder | Q1_placeholder.js |
+No Title
+
+1. to find the first non repeating character in a string.
