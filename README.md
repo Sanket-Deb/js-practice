@@ -14,6 +14,5 @@ Each question has:
 
 ## Question List
 
-No Title
-
 1. to find the first non repeating character in a string.
+2. reverse the sequence of words in a given string.
