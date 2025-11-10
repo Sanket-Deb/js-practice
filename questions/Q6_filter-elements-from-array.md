@@ -32,4 +32,4 @@ Explanation:
 Falsey values such as 0 should be filtered out
 
 **Approach:**  
-Explain your thought process here.
+Initiated an empty filterdArray, itereated through the given array if the function condition is true then push the element in the filterArray, then finally return it to get the output of elements from the original array which fulfill the conditional functions
